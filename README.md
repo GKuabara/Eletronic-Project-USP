@@ -1,6 +1,6 @@
 # Projeto-Eletronica-USP
 
-## Projeto da Disciplina SSC0180-Eletronica para Computacao
+## Projeto da Disciplina SSC0180 - Eletrônica para Computação
 
 ## Alunos:
 Gabriel Alves Kuabara (KU) - N° USP 11275043 - [GitHub](https://github.com/GKuabara)

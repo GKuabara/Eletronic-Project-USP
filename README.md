@@ -4,8 +4,11 @@
 
 ### Alunos:
 Gabriel Alves Kuabara (KU) - N° USP 11275043 - [GitHub]()
+
 Guilherme Machado Rios (Bio) - N° USP 11222839 - [GitHub]()
+
 Guilherme - N° USP - [GitHub]()
+
 Victor Henrique de Sa Silva (Spider) - N° USP 11795759 - [GitHub]()
 
 ### Instrucoes:

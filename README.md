@@ -1,4 +1,4 @@
-# Projeto-Eletronica-USP
+# Projeto Fonte Retificadora
 
 ## Projeto da Disciplina SSC0180 - Eletrônica para Computação
 

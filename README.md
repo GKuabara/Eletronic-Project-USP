@@ -5,9 +5,9 @@
 ## Alunos:
 Gabriel Alves Kuabara (KU) - N° USP 11275043 - [GitHub](https://github.com/GKuabara)
 
-Guilherme Machado Rios (Bio) - N° USP 11222839 - [GitHub]()
+Guilherme Machado Rios (Bio) - N° USP 11222839 - [GitHub](https://github.com/Guibi0)
 
-Guilherme - N° USP - [GitHub]()
+Guilherme Lourenço de Toledo - N° USP 11795811 - [GitHub](https://github.com/guitld)
 
 Victor Henrique de Sa Silva (Spider) - N° USP 11795759 - [GitHub]()
 
@@ -37,7 +37,7 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 |               | []() |  |  $|
 |               | []() |  |  $|
 |               | []() |  |  $|
-| **Total**     | $|
+| **Total**     |      |  |  $|
 
 ## Agradecimentos:
 Obrigado por nos ensinar a fazer coquetel molotov.

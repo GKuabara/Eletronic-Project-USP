@@ -9,7 +9,7 @@ Guilherme Machado Rios (Bio) - N° USP 11222839 - [GitHub](https://github.com/Gu
 
 Guilherme Lourenço de Toledo - N° USP 11795811 - [GitHub](https://github.com/guitld)
 
-Victor Henrique de Sa Silva (Spider) - N° USP 11795759 - [GitHub]()
+Victor Henrique de Sa Silva (Spider) - N° USP 11795759 - [GitHub](https://github.com/VictorHenrique)
 
 ## Instrucoes:
 Projeto de fonte retificadora de tensão contínua entre 3V a 12V com capacidade de 100mA.

@@ -17,10 +17,22 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 
 ## Imagem do Circuito Falstad:
 
-## Link do Circuito Falstad:
+## Link do Circuito [Falstad](http://tinyurl.com/y9y246fr)
 
-  http://tinyurl.com/y9y246fr
 ## Componentes do Circuito:
+* **Transformador** - Sendo o primeiro componente da fonte, esse serve para reduzir a tensão de entrada da tomada para o valor de 15V, tensão próxima de funcionamento da fonte. Porém, a corrente continua alternada com semiciclo negativo e positivo, e a tensão oscilando bastante ainda.
+
+* **Diodos** - Responsáveis pela retificação do circuito, isso é, transformar a corrente alternada em corrente contínua atráves da inversão de um dos semiciclos. Na imagem acima, os diodos pares estão polarizados durante o semiciclo positivo e os diodos ímpares estão cortados. Já durante o semiciclo negativo, os diodos assumem papel oposto. Além disso, apesar de termos a corrente contínua, ainda existem variações na tensão quando há a troca de semiciclos denominadas "ripples"(variação residual periodica do derivada de uma corrente alternada).
+
+* **Capacitor** - Faz o papel da filtragem de modo a reduzir o "ripple" para maior estabilidade da corrente. Assim, o capacitor carrega durante o pico de tensão, e quando a tensão diminui para o semiciclo inverso, a tensão interna do capacitor supera a tensão do circuito, fazendo com que o capacitor alimente o circuito, logo diminuindo o "ripple".
+
+* **Resistores** - Fazem o papel de proteção dos componentes do circuitos, evitando que a corrente ultrapasse os valores de funcionamento dos componentes evitando que explodam na nossa cara, amém.
+
+* **Potenciometro** - Resistor de resistência variável que permite a variação da tensão entre 3V e 12V. 
+
+* **Diodo Zener** - Regula a tensão máxima do circuito. O zener conduz corrente somente quando acima da corrente de ruptura e assim diminui a corrente para a tensão nominal do diodo. Dessa forma, mantem a tensão entre os seus terminais quando acima da mínima, nesse caso 12V. 
+
+* **Transistor NPN** - Capaz de controlar a corrente elétrica de maneira ajustável.
 
 
 ## Componentes, especificações e valores:

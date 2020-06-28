@@ -21,9 +21,8 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 
 ## Componentes do Circuito:
 
-## Escolha dos Componentes:
 
-## Tabela de Preços dos Componentes:
+## Componentes, especificações e valores
 | **Quantidade** | **Componentes**   | **Especificações** | **Valor R$**|
 |----------------|-------------------|--------------------|--------------|
 |         1x     | [Transformador](https://produto.mercadolivre.com.br/MLB-1299159736-transformador-1515v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgKeMy0nJofiC6KaxPgJOotdfYedegX4Cvw1K8ZATrrtRfrb-_nViN8aAoY1EALw_wcB&quantity=1) | 15V |  $29.90|

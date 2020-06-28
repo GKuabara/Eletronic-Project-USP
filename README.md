@@ -11,7 +11,7 @@ Guilherme Lourenço de Toledo (Vinho) - N° USP 11795811 - [GitHub](https://gith
 
 Victor Henrique de Sa Silva (Spider) - N° USP 11795759 - [GitHub](https://github.com/VictorHenrique)
 
-## Instrucoes:
+## Instruções:
 Projeto de fonte retificadora de tensão contínua entre 3V a 12V com capacidade de 100mA.
 A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fonte deve ser capaz de deixar a corrente contínua com tensão ajustável entre 3V a 12V.
 

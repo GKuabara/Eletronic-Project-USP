@@ -24,7 +24,7 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 ## Escolha dos Componentes:
 
 ## Tabela de Preços dos Componentes:
-| **Quantidade** | **Componentes**   | **Especificações** | **Valor R$ **|
+| **Quantidade** | **Componentes**   | **Especificações** | **Valor R$**|
 |----------------|-------------------|--------------------|--------------|
 |         1x     | [Transformador](https://produto.mercadolivre.com.br/MLB-1299159736-transformador-1515v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgKeMy0nJofiC6KaxPgJOotdfYedegX4Cvw1K8ZATrrtRfrb-_nViN8aAoY1EALw_wcB&quantity=1) | 15V |  $29.90|
 |         4x     | [Diodo](https://www.arduoeletro.com/diodo-1n-4007?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJ0wxy2Hp_5nHJ2fnSKeIm5tyTmb2PZhb8mVqMMBYZ7-NIENwZE6ToaAscCEALw_wcB) | Normal |  $0.40|
@@ -36,7 +36,7 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 |         1x     | [Potenciômetro](https://shopee.com.br/5PCS-WTH118-2W-1A-Potenci%C3%B4metro-4-7k-ohm-WTH118-2W-4K7-Carbono-do-eixo-redondo-i.190983404.6104791034?gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJW-_1cKiFGihGA9RXz4dDc0x1a7dpzweCjyVig82dgfcRijbYyxRAaAoMdEALw_wcB) | 4.7k |  $7.20|
 |         1x     | [Transistor](https://www.google.com/aclk?sa=l&ai=DChcSEwjDyLSEq6PqAhUHCJEKHRbGAwYYABAEGgJjZQ&sig=AOD64_1MjzoeLBrcoe0HWlJstQacJ3uwSg&ctype=5&q=&ved=0ahUKEwi_9K-Eq6PqAhX3ErkGHQihCi0Q2CkI0gI&adurl=) | NPN |  $1.75|
 
-| **Total**     |      |  |  $43.36|
+| **Total**     |           |          |           $43.36 | 
 
 ## Agradecimentos:
 Obrigado por nos ensinar a fazer coquetel molotov.

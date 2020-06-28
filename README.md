@@ -36,7 +36,7 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 |         1x     | [Potenciômetro](https://shopee.com.br/5PCS-WTH118-2W-1A-Potenci%C3%B4metro-4-7k-ohm-WTH118-2W-4K7-Carbono-do-eixo-redondo-i.190983404.6104791034?gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJW-_1cKiFGihGA9RXz4dDc0x1a7dpzweCjyVig82dgfcRijbYyxRAaAoMdEALw_wcB) | 4.7k |  $7.20|
 |         1x     | [Transistor](https://www.google.com/aclk?sa=l&ai=DChcSEwjDyLSEq6PqAhUHCJEKHRbGAwYYABAEGgJjZQ&sig=AOD64_1MjzoeLBrcoe0HWlJstQacJ3uwSg&ctype=5&q=&ved=0ahUKEwi_9K-Eq6PqAhX3ErkGHQihCi0Q2CkI0gI&adurl=) | NPN |  $1.75|
 
-| **Total**     |      |  |  $43.36|
+| **Total**     |      |        |   $43.36    |
 
 ## Agradecimentos:
 Obrigado por nos ensinar a fazer coquetel molotov.

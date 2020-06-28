@@ -3,13 +3,13 @@
 ## Projeto da Disciplina SSC0180 - Eletrônica para Computação
 
 ## Alunos:
-Gabriel Alves Kuabara (KU) - N° USP 11275043 - [GitHub](https://github.com/GKuabara)
+Gabriel Alves Kuabara ([KU](https://github.com/GKuabara)) - N° USP 11275043
 
-Guilherme Machado Rios (Bio) - N° USP 11222839 - [GitHub](https://github.com/Guibi0)
+Guilherme Machado Rios ([Bio](https://github.com/Guibi0)) - N° USP 11222839
 
-Guilherme Lourenço de Toledo (Vinho) - N° USP 11795811 - [GitHub](https://github.com/guitld)
+Guilherme Lourenço de Toledo ([Vinho](https://github.com/guitld)) - N° USP 11795811
 
-Victor Henrique de Sa Silva (Spider) - N° USP 11795759 - [GitHub](https://github.com/VictorHenrique)
+Victor Henrique de Sa Silva ([Spider](https://github.com/VictorHenrique)) - N° USP 11795759
 
 ## Instruções:
 Projeto de fonte retificadora de tensão contínua entre 3V a 12V com capacidade de 100mA.

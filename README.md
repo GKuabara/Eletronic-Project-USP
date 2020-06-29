@@ -22,6 +22,7 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 ## Vídeos Explicativos do Circuito:
 
   [Escolha de cada componente](https://www.youtube.com/watch?v=c0EQK5SbbUY&feature=youtu.be)
+  
   [Cálculos relacionados ao circuito]()
 
 ## Componentes do Circuito:

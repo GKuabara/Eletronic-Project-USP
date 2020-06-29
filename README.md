@@ -19,7 +19,10 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 
 ## [Link do Circuito Falstad](http://tinyurl.com/y9y246fr)
 
-## [Vídeo Explicativo do Circuito]()
+## Vídeos Explicativos do Circuito:
+
+  [Escolha de cada componente](https://www.youtube.com/watch?v=c0EQK5SbbUY&feature=youtu.be)
+  [Cálculos relacionados ao circuito]()
 
 ## Componentes do Circuito:
 * **Transformador** - Sendo o primeiro componente da fonte, esse serve para reduzir a tensão de entrada da tomada para o valor de 15V, tensão próxima de funcionamento da fonte. Porém, a corrente continua alternada com semiciclo negativo e positivo, e a tensão oscilando bastante ainda.
@@ -52,4 +55,4 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 | **Total**   ||| $43.36 | 
 
 ## Agradecimentos:
-Obrigado Simões por ser um prof. boladão.
+Obrigado Simões por um prof. boladão.

@@ -43,7 +43,7 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 
   [Escolha de cada componente](https://www.youtube.com/watch?v=MA9W5LkvAV4&feature=youtu.be)
   
-  [Cálculos relacionados ao circuito]()
+  [Cálculos relacionados ao circuito](https://www.youtube.com/watch?v=VsMtwc1UD2E)
 
 ## Componentes do Circuito:
 * **Transformador** - Sendo o primeiro componente da fonte, esse serve para reduzir a tensão de entrada da tomada para o valor de 15V, tensão próxima de funcionamento da fonte. Porém, a corrente continua alternada com semiciclo negativo e positivo, e a tensão oscilando bastante ainda.

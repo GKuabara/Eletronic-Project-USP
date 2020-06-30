@@ -28,15 +28,19 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 
 ## Simulações 3D no softaware Fusion 360
 **Topo**
+
 ![PCB](Images/Top3D.jpg)
 
 **Frente**
+
 ![PCB](Images/Front3D.jpg)
 
 **Costas 1**
+
 ![PCB](Images/BackX3D.jpg)
 
 **Costas 2**
+
 ![PCB](Images/Back3D.jpg)
 
 ## Vídeos Explicativos do Circuito:

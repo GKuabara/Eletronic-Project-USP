@@ -75,4 +75,4 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 | **Total**   ||| $44.23 | 
 
 ## Agradecimentos:
-Obrigado Simões por um prof. boladão.
+Obrigado Simões pela extrema coerência mostrada em suas atitudes como docente no contexto atual ♡♡

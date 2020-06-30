@@ -20,6 +20,18 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 
 ## [Link do Circuito Falstad](http://tinyurl.com/ybhp9tgl)
 
+## Imagem do esquemático da PCB no software EAGLE
+![EsquemaEAGLE](Images/CircuitoEAGLE.jpg)
+
+## Imagem da PCB no software EAGLE
+![PCB](Images/PCB.jpg)
+
+## Simulações 3D no softaware Fusion 360
+![PCB](Images/Front3D.jpg)
+![PCB](Images/BackX3D.jpg)
+![PCB](Images/Top3D.jpg)
+![PCB](Images/Back3D.jpg)
+
 ## Vídeos Explicativos do Circuito:
 
   [Escolha de cada componente](https://www.youtube.com/watch?v=MA9W5LkvAV4&feature=youtu.be)

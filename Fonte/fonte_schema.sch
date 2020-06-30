@@ -9500,14 +9500,12 @@ http://www.ts.com.tw/db/pictures/modules/PDT/PDT060207001/DBLS201G.pdf</descript
 </class>
 </classes>
 <parts>
-<part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="470u"/>
 <part name="TR1" library="inductor-neosid" library_urn="urn:adsk.eagle:library:241" deviceset="SM-T4" device="" package3d_urn="urn:adsk.eagle:package:14702/1" value="15V">
 <attribute name="SPICEPREFIX" value="T"/>
 </part>
 <part name="T1" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="2N3904" device="" package3d_urn="urn:adsk.eagle:package:28523/2">
 <attribute name="SPICEPREFIX" value="J"/>
 </part>
-<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.8k"/>
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="330">
 <spice>
 <pinmapping isusermap="yes" isdevicewide="yes">
@@ -9528,16 +9526,13 @@ http://www.ts.com.tw/db/pictures/modules/PDT/PDT060207001/DBLS201G.pdf</descript
 <attribute name="SPICEPREFIX" value="H"/>
 </part>
 <part name="B1" library="rectifier" library_urn="urn:adsk.eagle:library:336" deviceset="DB?*G" device="DB10" package3d_urn="urn:adsk.eagle:package:23899/1" technology="5"/>
+<part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-US" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="750u"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 </plain>
 <instances>
-<instance part="C1" gate="G$1" x="55.88" y="22.86" smashed="yes">
-<attribute name="NAME" x="56.896" y="26.035" size="1.778" layer="95"/>
-<attribute name="VALUE" x="56.896" y="23.749" size="1.778" layer="96"/>
-</instance>
 <instance part="TR1" gate="G$1" x="-5.08" y="31.75" smashed="yes">
 <attribute name="NAME" x="-9.144" y="38.862" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-9.144" y="26.67" size="1.778" layer="96"/>
@@ -9545,10 +9540,6 @@ http://www.ts.com.tw/db/pictures/modules/PDT/PDT060207001/DBLS201G.pdf</descript
 <instance part="T1" gate="G1" x="127" y="35.56" smashed="yes">
 <attribute name="NAME" x="132.08" y="38.1" size="1.778" layer="95"/>
 <attribute name="VALUE" x="132.08" y="35.56" size="1.778" layer="96"/>
-</instance>
-<instance part="R1" gate="G$1" x="66.04" y="20.32" smashed="yes" rot="R270">
-<attribute name="NAME" x="62.4586" y="16.51" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="67.818" y="16.51" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="R2" gate="G$1" x="76.2" y="33.02" smashed="yes">
 <attribute name="NAME" x="72.39" y="34.5186" size="1.778" layer="95"/>
@@ -9578,17 +9569,17 @@ http://www.ts.com.tw/db/pictures/modules/PDT/PDT060207001/DBLS201G.pdf</descript
 <attribute name="VALUE" x="20.32" y="27.94" size="1.778" layer="96"/>
 <attribute name="NAME" x="20.32" y="35.56" size="1.778" layer="95"/>
 </instance>
+<instance part="C2" gate="G$1" x="66.04" y="20.32" smashed="yes">
+<attribute name="NAME" x="67.056" y="23.495" size="1.778" layer="95"/>
+<attribute name="VALUE" x="67.056" y="21.209" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="N$1" class="0">
 <segment>
-<wire x1="55.88" y1="7.62" x2="66.04" y2="7.62" width="0.1524" layer="91"/>
 <wire x1="66.04" y1="7.62" x2="86.36" y2="7.62" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="55.88" y1="17.78" x2="55.88" y2="7.62" width="0.1524" layer="91"/>
-<pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="66.04" y1="15.24" x2="66.04" y2="7.62" width="0.1524" layer="91"/>
 <junction x="66.04" y="7.62"/>
 <wire x1="86.36" y1="17.78" x2="86.36" y2="7.62" width="0.1524" layer="91"/>
@@ -9603,17 +9594,12 @@ http://www.ts.com.tw/db/pictures/modules/PDT/PDT060207001/DBLS201G.pdf</descript
 <pinref part="D5" gate="G$1" pin="A"/>
 <pinref part="B1" gate="G$1" pin="-"/>
 <wire x1="10.16" y1="33.02" x2="10.16" y2="7.62" width="0.1524" layer="91"/>
-<wire x1="10.16" y1="7.62" x2="55.88" y2="7.62" width="0.1524" layer="91"/>
-<junction x="55.88" y="7.62"/>
+<wire x1="10.16" y1="7.62" x2="66.04" y2="7.62" width="0.1524" layer="91"/>
+<pinref part="C2" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="66.04" y1="25.4" x2="66.04" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="33.02" x2="55.88" y2="33.02" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="55.88" y1="25.4" x2="55.88" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="66.04" y1="33.02" x2="71.12" y2="33.02" width="0.1524" layer="91"/>
 <junction x="66.04" y="33.02"/>
@@ -9622,8 +9608,9 @@ http://www.ts.com.tw/db/pictures/modules/PDT/PDT060207001/DBLS201G.pdf</descript
 <wire x1="129.54" y1="40.64" x2="129.54" y2="57.15" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="57.15" x2="66.04" y2="57.15" width="0.1524" layer="91"/>
 <pinref part="B1" gate="G$1" pin="+"/>
-<wire x1="20.32" y1="33.02" x2="55.88" y2="33.02" width="0.1524" layer="91"/>
-<junction x="55.88" y="33.02"/>
+<wire x1="20.32" y1="33.02" x2="66.04" y2="33.02" width="0.1524" layer="91"/>
+<pinref part="C2" gate="G$1" pin="1"/>
+<wire x1="66.04" y1="22.86" x2="66.04" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$4" class="0">

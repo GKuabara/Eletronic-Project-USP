@@ -16,6 +16,7 @@ Projeto de fonte retificadora de tensão contínua entre 3V a 12V com capacidade
 A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fonte deve ser capaz de deixar a corrente contínua com tensão ajustável entre 3V a 12V.
 
 ## Imagem do Circuito Falstad:
+![Circuito](circuito_fonte.png)
 
 ## [Link do Circuito Falstad](http://tinyurl.com/ybhp9tgl)
 

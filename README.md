@@ -21,12 +21,16 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 ## [Link do Circuito Falstad](http://tinyurl.com/yd8kujmg)
 
 ## Imagem do esquemático da PCB no software EAGLE
+*O transformador foi separado da placa principal devido ao seu tamanho
 ![EsquemaEAGLE](Images/CircuitoEAGLE.jpg)
 
+
 ## Imagem da PCB no software EAGLE
+*O transformador foi separado da placa principal devido ao seu tamanho
 ![PCB](Images/PCB.jpg)
 
 ## Simulações 3D no softaware Fusion 360
+*O transformador foi separado da placa principal devido ao seu tamanho
 ### Topo
 ![PCB](Images/Top3D.jpg)
 

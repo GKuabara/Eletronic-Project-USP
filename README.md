@@ -64,15 +64,15 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 ## Componentes, especificações e valores:
 | **Quantidade** | **Componentes**   | **Especificações** | **Valor**|
 |----------------|-------------------|--------------------|--------------|
-|         1x     | [Transformador](https://produto.mercadolivre.com.br/MLB-1299159736-transformador-1515v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgKeMy0nJofiC6KaxPgJOotdfYedegX4Cvw1K8ZATrrtRfrb-_nViN8aAoY1EALw_wcB&quantity=1) | 15V | R29.90|
-|         4x     | [Diodo](https://www.arduoeletro.com/diodo-1n-4007?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJ0wxy2Hp_5nHJ2fnSKeIm5tyTmb2PZhb8mVqMMBYZ7-NIENwZE6ToaAscCEALw_wcB) | Normal |  R$0.40|
-|         1x     | [Capacitor Eletrolítico](https://www.eletrogate.com/capacitor-eletrolitico-1000uf-x-16v?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjwoub3BRC6ARIsABGhnyZ_RIU0_78Q12_vGcE23LCamEqiIbno5rkSUVdKnD0BTOSjUcxPa7oaAkqBEALw_wcB) | 750uF |  R$0.45|
-|         1x     | [Resistor](https://produto.mercadolivre.com.br/MLB-1342907792-resistor-330-ohms-100-unidades-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgLQmDXTySOG5SPVeSkZzxwxIkQ18u9yLq5I2XRCE6nhx1F0_QvOYmUaAspBEALw_wcB&quantity=1) | 330ohms |  R$0.13|
-|         1x     | [Resistor](https://produto.mercadolivre.com.br/MLB-937733782-kit-10-x-resistor-22k-ohm-14w-1-projeto-arduino-raspberry-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgKAe7Wy7yk2gXiOZ5dqMArm00GkyamfaNH7T7loakiJhOX3ozAropwaAhECEALw_wcB&quantity=1) | 2.2k |  R$0.86|
-|         1x     | [Diodo](https://www.americanas.com.br/produto/1397103736?opn=YSMESP&sellerid=4145166000157&epar=bp_pl_00_go_am_todas_geral_gmv&WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&i=5dd8ae5049f937f6254fab94&o=5df60079f8e95eac3dac6177&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgIA358SW4MTZbxC3F3oDX6124FH0DvY33t5ULAEiQPJIl66QkP-IVgaApfTEALw_wcB) | Zener 13V |  R$0.60|
-|         1x     | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | 5k |  R$1.15|
-|         1x     | [Transistor](https://www.google.com/aclk?sa=l&ai=DChcSEwjDyLSEq6PqAhUHCJEKHRbGAwYYABAEGgJjZQ&sig=AOD64_1MjzoeLBrcoe0HWlJstQacJ3uwSg&ctype=5&q=&ved=0ahUKEwi_9K-Eq6PqAhX3ErkGHQihCi0Q2CkI0gI&adurl=) | NPN |  R$1.75|
-| **Total** ||| R$44.23 | 
+|         1x     | [Transformador](https://produto.mercadolivre.com.br/MLB-1299159736-transformador-1515v-1a-trafo-bivolt-_JM?matt_tool=82322591&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgKeMy0nJofiC6KaxPgJOotdfYedegX4Cvw1K8ZATrrtRfrb-_nViN8aAoY1EALw_wcB&quantity=1) | 15V | R$ 29.90|
+|         4x     | [Diodo](https://www.arduoeletro.com/diodo-1n-4007?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJ0wxy2Hp_5nHJ2fnSKeIm5tyTmb2PZhb8mVqMMBYZ7-NIENwZE6ToaAscCEALw_wcB) | Normal |  R$ 0.40|
+|         1x     | [Capacitor Eletrolítico](https://www.eletrogate.com/capacitor-eletrolitico-1000uf-x-16v?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjwoub3BRC6ARIsABGhnyZ_RIU0_78Q12_vGcE23LCamEqiIbno5rkSUVdKnD0BTOSjUcxPa7oaAkqBEALw_wcB) | 750uF |  R$ 0.45|
+|         1x     | [Resistor](https://produto.mercadolivre.com.br/MLB-1342907792-resistor-330-ohms-100-unidades-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgLQmDXTySOG5SPVeSkZzxwxIkQ18u9yLq5I2XRCE6nhx1F0_QvOYmUaAspBEALw_wcB&quantity=1) | 330ohms |  R$ 0.13|
+|         1x     | [Resistor](https://produto.mercadolivre.com.br/MLB-937733782-kit-10-x-resistor-22k-ohm-14w-1-projeto-arduino-raspberry-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgKAe7Wy7yk2gXiOZ5dqMArm00GkyamfaNH7T7loakiJhOX3ozAropwaAhECEALw_wcB&quantity=1) | 2.2k |  R$ 0.86|
+|         1x     | [Diodo](https://www.americanas.com.br/produto/1397103736?opn=YSMESP&sellerid=4145166000157&epar=bp_pl_00_go_am_todas_geral_gmv&WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&i=5dd8ae5049f937f6254fab94&o=5df60079f8e95eac3dac6177&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgIA358SW4MTZbxC3F3oDX6124FH0DvY33t5ULAEiQPJIl66QkP-IVgaApfTEALw_wcB) | Zener 13V |  R$ 0.60|
+|         1x     | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | 5k |  R$ 1.15|
+|         1x     | [Transistor](https://www.google.com/aclk?sa=l&ai=DChcSEwjDyLSEq6PqAhUHCJEKHRbGAwYYABAEGgJjZQ&sig=AOD64_1MjzoeLBrcoe0HWlJstQacJ3uwSg&ctype=5&q=&ved=0ahUKEwi_9K-Eq6PqAhX3ErkGHQihCi0Q2CkI0gI&adurl=) | NPN |  R$ 1.75|
+| **Total** ||| R$ 44.23 | 
 
 ## Agradecimentos:
 Obrigado Simões pela extrema coerência mostrada em suas atitudes como docente no contexto atual ♡♡

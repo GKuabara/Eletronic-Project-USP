@@ -17,7 +17,6 @@ A partir de uma tomada de 127V de corrente alternada e frequência de 60Hz, a fo
 
 ## Imagem do Circuito Falstad:
 ![Circuito](Images/CircuitoFalstad.jpg)
-![Alt text](Images/CircuitoFalstad.jpg "Optional Title")
 
 ## [Link do Circuito Falstad](http://tinyurl.com/yd8kujmg)
 
